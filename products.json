@@ -1,0 +1,68 @@
+{
+    "items": [
+    {
+        "sys": { "id": "1" },
+        "fields": {
+        "title": "Flexy Canyon Arrow Lighthouse",
+        "price": 239,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+        }
+    },
+    {
+        "sys": { "id": "2" },
+        "fields": {
+            "title": "Drop Hammer Walnut",
+            "price": 179,
+            "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+        }
+    },
+    {
+        "sys": { "id": "3" },
+        "fields": {
+            "title": "Battle Axe 38 Fox",
+            "price": 189 ,
+            "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+        }
+    },
+    {
+        "sys": { "id": "4" },
+        "fields": {
+            "title": "Bamboo Totem Sunset Kid",
+            "price": 179,
+            "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+        }
+    },
+    {
+        "sys": { "id": "5" },
+        "fields": {
+            "title": "The Ripper",
+            "price": 169,
+            "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+        }
+    },
+    {
+        "sys": { "id": "6" },
+        "fields": {
+            "title": "Switch Skull 35",
+            "price": 239,
+            "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+        }
+    },
+    {
+        "sys": { "id": "7" },
+        "fields": {
+            "title": "Pinner Handstand",
+            "price": 189,
+            "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+        }
+    },
+    {
+        "sys": { "id": "8" },
+        "fields": {
+            "title": "Drop Cat 38 Illuminacion",
+            "price": 199,
+            "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+        }
+    }
+    ]
+}
